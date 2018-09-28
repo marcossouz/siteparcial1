@@ -167,3 +167,62 @@ h1 {
 	 text-align: justify;
 	 vertical-align: top; 
 }
+
+.img-eventos {
+	width: 90%;
+	height: 500px;
+	margin-left: 5%;
+	margin-top: 20px;
+}
+
+figure.galeria{
+	float: left;
+	width: 240px;
+	height: 230px;
+	text-align: center;
+	font-style: italic;
+	font-size: smaller;
+	text-indent: 0;
+	border: thin silver solid;
+	margin: 0.5em;
+	padding: 0.5em;
+  }
+  
+  .img-galeria {
+	  width: 230px;
+	  height: 200px;
+  }
+
+  .sobre {
+	  padding-left: 60px;
+	  padding-right: 60px;
+	  text-align: justify;
+	  text-indent: 4em;
+  }
+
+  #sobre1 {
+	  padding-top: 60px;
+  }
+
+  #sobreFim {
+	  padding-bottom: 60px;
+  }
+
+  .table-noticias {
+	  margin-bottom: 60px;
+  }
+
+#form-contato {
+	margin-left: 20%;
+	margin-bottom: 40px;
+}
+
+label {
+	display: block;
+	width: 40%;
+}
+
+.form-entry {
+	display: block;
+	width: 70%;
+}
